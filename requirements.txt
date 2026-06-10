@@ -1,0 +1,12 @@
+# Web Framework 
+Flask
+
+# Core AI & Data 
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+
+# Reporting & Utils 
+fpdf
