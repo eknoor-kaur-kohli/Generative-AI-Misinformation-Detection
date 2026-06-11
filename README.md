@@ -63,7 +63,7 @@ Unlike simple classifiers, this project provides a **Forensic Dashboard** that o
 1.  **Clone the Repository**
     ```bash
     git clone [https://github.com/eknoor-kaur-kohli/Generative-AI-Misinformation-Detection.git](https://github.com/eknoor-kaur-kohli/Generative-AI-Misinformation-Detection.git)
-    cd ai-misinfo-detection
+    cd Generative-AI-Misinformation-Detection
     ```
 
 2.  **Create Virtual Environment**
